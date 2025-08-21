@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-  
-# Mary Tamagotchi Sanrio 🎀
+# Mary -5 Tamagotchi Sanrio 
 
 
 class Tamagoshi:
