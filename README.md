@@ -1,6 +1,6 @@
 " tamagotchi" 
 
-como rodar :)
+como rodar caso de problema:)
 
 1- escreva no terminal "chcp 65001"
 2- agora escreva no terminal "python meu.py"
